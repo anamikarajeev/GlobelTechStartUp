@@ -1,21 +1,21 @@
-# 🌍 Global Tech Startups – EDA Project
+# Global Tech Startups – EDA Project
 
-## 📌 Project Overview
+## Project Overview
 This project explores global tech startup data using Exploratory Data Analysis (EDA) to identify trends in funding, valuation, revenue, employee growth, layoffs, and AI adoption.
 
-## 🎯 Objectives
+## Objectives
 - Analyze startup distribution across countries and domains.
 - Explore funding and valuation patterns.
 - Understand revenue and financial performance.
 - Analyze employee growth and layoffs.
 - Study AI adoption and acquisition status.
 
-## 📊 Dataset
+## Dataset
 - 25,000 records
 - 17 columns
 - Covers global technology startups.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python
 - Pandas
 - NumPy
@@ -23,18 +23,18 @@ This project explores global tech startup data using Exploratory Data Analysis (
 - Seaborn
 - Jupyter Notebook
 
-## 🔍 Analysis Performed
+## Analysis Performed
 - Data cleaning and exploration
 - Statistical analysis
 - Data visualization
 - Correlation analysis
 - Business insights generation
 
-## 📁 Project Files
+## Project Files
 - `GlobelTech.ipynb` – Jupyter Notebook
 - `global_tech_startups_2026.csv` – Dataset
 
-## 👩‍💻 Author
+##  Author
 **Anamika o**
 
 GitHub: [@anamikarajeev](https://github.com/anamikarajeev)
